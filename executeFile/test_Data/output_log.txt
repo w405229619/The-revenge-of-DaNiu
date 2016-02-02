@@ -1,0 +1,58 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiu9pag.dll 8.14.1.6143]
+    Renderer: ATI Mobility Radeon HD 5730
+    Vendor:   ATI
+    VRAM:     982 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Cluster Renderer Log : ARG list
+E:\��ţ�ĸ���\The-revenge-of-DaNiu\executeFile\test.exe
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiu9pag.dll 8.14.1.6143]
+    Renderer: ATI Mobility Radeon HD 5730
+    Vendor:   ATI
+    VRAM:     982 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Cluster Renderer Log : ARG list
+E:\��ţ�ĸ���\The-revenge-of-DaNiu\executeFile\test.exe
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\大牛的复仇\The-revenge-of-DaNiu\executeFile\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
